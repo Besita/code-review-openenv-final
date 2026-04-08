@@ -1,0 +1,10 @@
+uvicorn
+openenv_core
+requests
+openai
+numpy
+pydantic    
+fastapi
+scikit-learn
+sentence_transformers
+torch --index-url https://download.pytorch.org/whl/cpu
